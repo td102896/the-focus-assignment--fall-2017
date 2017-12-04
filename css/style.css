@@ -90,16 +90,16 @@ top: 945px;}
 
 .word1{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight:400;
-    font-size:16;}
+    font-size:16px;}
 .word2{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight:400;
-    font-size:16;}
+    font-size:16px;}
 .word3{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight:400;
-    font-size:16;}
+    font-size:16px;}
 .word4{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight:400;
-    font-size:16;}
+    font-size:16px;}
 .word1{position: absolute;
 left: 275px;
 top: 815px;}
@@ -144,7 +144,7 @@ top: 1250px;
 .par1{
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight:400;
-  font-size:16;}
+  font-size:16px;}
 .par1{
 position: absolute;
 left: 220px;
@@ -178,7 +178,7 @@ left: 800px;
 top: 1745px}
 .ka1{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 font-weight:600;
-font-size:14;}
+font-size:14px;}
 .people{
 position: absolute;
 left: 0px;
@@ -195,7 +195,7 @@ left: 815px;
 top: 2190px;}
 .lor{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 font-weight:400;
-font-size:16;}
+font-size:16px;}
 .lor{position: absolute;
 left: 680px;
 top: 2230px;}
@@ -224,7 +224,7 @@ top: 2430px;}
 .contact{
 font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 font-weight:400;
-font-size:16;}
+font-size:16px;}
 
 .contain{
 width:1602px;
