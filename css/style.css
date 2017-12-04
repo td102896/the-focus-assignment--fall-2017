@@ -1,0 +1,236 @@
+body {
+  }
+.banner{
+  height:916px;
+  width:1600px;
+}
+.focus{
+  position: absolute;
+  left: 680px;
+  top: 120px;
+  }
+.word{
+  font-family: "pacifico",regular,cursive;
+  font-size:60px;}
+
+.word{
+position: absolute;
+left: 770px;
+top: 120px;}
+
+.sentence{
+font-family: "raleway",sans-serif;
+font-size:36px;
+font-weight: lighter;}
+
+.sentence{
+  position: absolute;
+  left: 485px;
+  top: 245px;}
+
+.arrow{
+width:50px;
+height:15px;}
+
+.arrow{
+position: absolute;
+left: 775px;
+top: 335px;}
+
+.iphone{
+position: absolute;
+left: 570px;
+top: 420px;
+}
+
+.whitedot1{
+  width:16px;
+  height:16px;
+}
+.whitedot2{
+  width:16px;
+  height:16px;
+}
+.whitedot3{
+  width:16px;
+  height:16px;
+}
+.s1{
+font-family: "raleway",sans-serif;
+font-size:22px;
+font-weight:600;}
+.s2{
+font-family: "raleway",sans-serif;
+font-size:22px;
+font-weight:600;}
+.s3{
+font-family: "raleway",sans-serif;
+font-size:22px;
+font-weight:600;}
+.s4{
+font-family: "raleway",sans-serif;
+font-size:22px;
+font-weight:600;}
+
+.s1{position: absolute;
+left: 270px;
+top: 770px;}
+
+.s2{position: absolute;
+left: 270px;
+top: 945px;}
+
+.s3{position: absolute;
+left: 1027px;
+top: 770px;}
+
+.s4{position: absolute;
+left: 1027px;
+top: 945px;}
+
+.word1{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:400;
+    font-size:16px;}
+.word2{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:400;
+    font-size:16px;}
+.word3{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:400;
+    font-size:16px;}
+.word4{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:400;
+    font-size:16px;}
+.word1{position: absolute;
+left: 275px;
+top: 815px;}
+.word2{position: absolute;
+left: 275px;
+top: 990px;}
+.word3{position: absolute;
+left: 1030px;
+top: 815px;}
+.word4{position: absolute;
+left: 1030px;
+top: 990px;}
+.blackdot{
+background-color: rgba(255, 255, 255, .4);
+position: absolute;
+left: 850px;
+top: 815px;}
+.blackdot{
+width:15px;
+height:15px;
+}
+.line{position: absolute;
+left: 885px;
+top: 845px;
+}
+.back1{
+width:1603px;
+height:427px;
+background-color:#E3E3E3;}
+.back1{position: absolute;
+left:0px;
+top: 1200px;}
+.to{
+font-family: "raleway",sans-serif;
+font-size:22px;
+font-weight:600;}
+.to{
+position: absolute;
+left: 220px;
+top: 1250px;
+}
+.par1{
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight:400;
+  font-size:16px;}
+.par1{
+position: absolute;
+left: 220px;
+top: 1300px;}
+.apple{position: absolute;
+left: 220px;
+top: 1450px;}
+.ami{position: absolute;
+left: 310px;
+top: 1450px;}
+.wind{position: absolute;
+left: 400px;
+top: 1450px;}
+.video{position: absolute;
+left: 920px;
+top: 1250px;}
+.play{position: absolute;
+left: 940px;
+top: 1500px;}
+.bar{position: absolute;
+left: 1020px;
+top: 1500px;}
+.par2{font-family: "raleway",sans-serif;
+font-size:22px;
+font-weight:400;}
+.par2{position: absolute;
+left: 500px;
+top: 1700px;}
+.ka1{position: absolute;
+left: 800px;
+top: 1745px}
+.ka1{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight:600;
+font-size:14px;}
+.people{
+position: absolute;
+left: 0px;
+top: 1820px;
+}
+.active{position: absolute;
+left: 915px;
+top: 1900px;}
+.hi{font-family: "raleway",sans-serif;
+font-size:24px;
+font-weight:600;}
+.hi{position: absolute;
+left: 815px;
+top: 2190px;}
+.lor{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight:400;
+font-size:16px;}
+.lor{position: absolute;
+left: 680px;
+top: 2230px;}
+.twit{position: absolute;
+left: 810px;
+top: 2270px;}
+.face{position: absolute;
+left: 850px;
+top: 2270px;}
+.pint{position: absolute;
+left: 890px;
+top: 2270px;}
+.google{position: absolute;
+left: 930px;
+top: 2270px;}
+.linkin{position: absolute;
+left: 970px;
+top: 2270px;}
+.you{position: absolute;
+left: 1010px;
+top: 2270px;}
+.contact{position: absolute;
+left: 580px;
+top: 2430px;}
+
+.contact{
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+font-weight:400;
+font-size:16px;}
+
+.contain{
+width:1602px;
+height:139px;
+background-color:#E3E3E3;
+}
+.contain{position: absolute;
+left:0px;
+top: 2360px;}
